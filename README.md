@@ -1,1 +1,1 @@
-"# exercicio_repositorio" 
+Resultado de exercícios de git
