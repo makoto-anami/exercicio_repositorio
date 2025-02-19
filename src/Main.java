@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Change #3");
         System.out.println("Change #4");
         System.out.println("Change #5");
+
+        System.out.println("New Feature #1");
     }
 }
